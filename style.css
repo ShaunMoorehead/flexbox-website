@@ -1,0 +1,59 @@
+.navbar1{
+    display: flex;
+  justify-content: space-between;
+    
+}
+.navbar2{
+    display: flex;
+    justify-content: space-between;
+    color: aliceblue;
+    
+}
+div{
+    margin: 30px;
+}
+.bottom{
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+img{
+    size: 70px;
+    border-radius: 100px;
+}
+#middle{
+    display: flex;
+    
+}
+button{
+    background-color: red;
+    color: white;
+    border-style: groove;
+    border-radius: 80px;
+    
+}
+h1{
+    color: white;
+    font-size: 80px;
+}
+h2{
+    color: white;
+}
+p{
+    color: white;
+}
+.phnumber{
+    color: white;
+}
+.name{
+    color: red;
+}
+body{
+    background-color: black;
+}
+#logo{
+    display: flex;
+    justify-content: right;
+    
+}
